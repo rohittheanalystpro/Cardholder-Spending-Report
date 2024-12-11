@@ -1,1 +1,3 @@
 # Cardholder-Spending-Report
+This Credit Card Customer Report offers insights into customer demographics, revenue trends, and satisfaction levels. It highlights total revenue of $55M, an average income of $57K, and $8M in interest earned. Key metrics include revenue by gender, age group, income level, and ownership status.
+The Credit Card Transaction Report provides insights into transaction patterns and revenue generation. Key metrics include a total revenue of $55M, a transaction amount of $45M, and 656K transactions. The dashboard highlights revenue distribution by card category, expenditure type, education level
